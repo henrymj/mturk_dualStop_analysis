@@ -538,14 +538,14 @@ def make_clean_concat_data(filter_exp='all', stop_subset=False, dataset='explore
     task_dfs = defaultdict(pd.DataFrame)
     explore_files = [i for i in glob(raw_dir + 's*/*') if (i.split('_')[-1].replace('.csv','') in sub_list) and ('demographics' not in i)]
     if stop_subset:
-        explore_files = [i for i in explore_files if ('stop' in i) and ('go_no_go' not in i)]
+        explore_files = [i for i in explore_files if ('stop' in i)]
     else:
-        explore_files = [i for i in explore_files if ('stop' not in i) and ('go_no_go' not in i)]
+        explore_files = [i for i in explore_files if ('stop' not in i)]
     for subj_file in explore_files:
         df, exp_id = read_and_filter_df(subj_file, filter_exp=filter_exp)
         task_dfs[exp_id] = pd.concat([task_dfs[exp_id], df], axis=0, sort=True)
     if stop_subset:
-        assert len(task_dfs.keys())==7
+        assert len(task_dfs.keys())==8
     else:
         assert len(task_dfs.keys())==36
     return task_dfs
