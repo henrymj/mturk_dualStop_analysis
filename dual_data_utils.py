@@ -534,14 +534,19 @@ def make_unfurled_tmp_df(df, key, separate_conditions_dict):
 
 # 4. umbrella functions
 def make_clean_concat_data(filter_exp='all', stop_subset=False, dataset='explore'):
-    sub_list = EXPLORE_IDS if dataset=='explore' else []
     task_dfs = defaultdict(pd.DataFrame)
-    explore_files = [i for i in glob(raw_dir + 's*/*') if (i.split('_')[-1].replace('.csv','') in sub_list) and ('demographics' not in i)]
+    all_files = [i for i in glob(raw_dir + 's*/*') if ('demographics' not in i)]
+    if dataset == 'explore':
+        files = [i for i in all_files if (i.split('_')[-1].replace('.csv','') in EXPLORE_IDS)]
+    elif dataset == 'validation':
+        files = [i for i in all_files if (i.split('_')[-1].replace('.csv','') not in EXPLORE_IDS)]
+    elif dataset == 'all':
+        files = all_files
     if stop_subset:
-        explore_files = [i for i in explore_files if ('stop' in i)]
+        files = [i for i in files if ('stop' in i)]
     else:
-        explore_files = [i for i in explore_files if ('stop' not in i)]
-    for subj_file in explore_files:
+        files = [i for i in files if ('stop' not in i)]
+    for subj_file in files:
         df, exp_id = read_and_filter_df(subj_file, filter_exp=filter_exp)
         task_dfs[exp_id] = pd.concat([task_dfs[exp_id], df], axis=0, sort=True)
     if stop_subset:
