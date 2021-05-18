@@ -533,10 +533,10 @@ def make_unfurled_tmp_df(df, key, separate_conditions_dict):
     return tmp_df
 
 # 4. umbrella functions
-def make_clean_concat_data(filter_exp='all', stop_subset=False, dataset='explore'):
+def make_clean_concat_data(filter_exp='all', stop_subset=False, dataset='discovery'):
     task_dfs = defaultdict(pd.DataFrame)
     all_files = [i for i in glob(raw_dir + 's*/*') if ('demographics' not in i)]
-    if dataset == 'explore':
+    if dataset == 'discovery':
         files = [i for i in all_files if (i.split('_')[-1].replace('.csv','') in EXPLORE_IDS)]
     elif dataset == 'validation':
         files = [i for i in all_files if (i.split('_')[-1].replace('.csv','') not in EXPLORE_IDS)]
