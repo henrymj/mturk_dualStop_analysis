@@ -1,10 +1,10 @@
-Task,Contrast,Mean,t-score,p-value
-flanker,incongruent - congruent,21.746,5.632,0.0
-cued_task_switching,cue switch task stay - cue stay task stay,21.827,2.832,0.008
-cued_task_switching,cue switch task switch - cue stay task stay,23.063,3.47,0.002
-cued_task_switching,task switch - cue switch,1.235,0.227,0.822
-predictable_task_switching,switch - stay,41.466,5.268,0.0
-directed_forgetting,neg - con,22.543,3.741,0.001
-shape_matching,distractor - control,28.565,5.401,0.0
-n_back,2 - 1,13.476,1.288,0.207
-n_back,3 - 1,17.108,1.594,0.121
+Task,Contrast,Mean,d,p
+Flanker,incongruent - congruent,21.7,0.98,0.0
+Cued Task Switching,cue switch task stay - cue stay task stay,21.8,0.49,0.008
+Cued Task Switching,cue switch task switch - cue stay task stay,23.1,0.6,0.002
+Cued Task Switching,task switch - cue switch,1.2,0.04,0.822
+Predictable Task Switching,switch - stay,41.5,0.92,0.0
+Directed Forgetting,neg - con,22.5,0.65,0.001
+Shape Matching,distractor - control,28.6,0.94,0.0
+n-Back,2 - 1,13.5,0.22,0.207
+n-Back,3 - 1,17.1,0.28,0.121

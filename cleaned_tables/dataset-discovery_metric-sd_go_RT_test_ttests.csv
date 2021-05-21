@@ -1,28 +1,28 @@
-test,dual task(s),mean,t,p
-"mean(DE,DC) != SE",predictable_task_switching,30.994,3.465,0.002
-"mean(DE,DC) != SE",cued_task_switching,22.57,3.237,0.003
-"mean(DE,DC) != SE",flanker,-0.035,-0.005,0.996
-"mean(DE,DC) != SE",shape_matching,1.754,0.22,0.828
-"mean(DE,DC) != SE",n_back,51.004,4.845,0.0
-"mean(DE,DC) != SE",directed_forgetting,26.513,2.981,0.006
-DC != SE,All,16.577,2.248,0.032
-DC != SE,predictable_task_switching,19.572,2.389,0.024
-DC != SE,cued_task_switching,22.572,2.954,0.006
-DC != SE,flanker,1.849,0.237,0.815
-DC != SE,shape_matching,-0.144,-0.016,0.987
-DC != SE,n_back,39.942,3.227,0.003
-DC != SE,directed_forgetting,15.671,1.547,0.133
-DE != SE,All,27.69,3.907,0.001
-DE != SE,predictable_task_switching,42.416,3.976,0.0
-DE != SE,cued_task_switching,22.569,3.075,0.005
-DE != SE,flanker,-1.918,-0.256,0.8
-DE != SE,shape_matching,3.652,0.471,0.641
-DE != SE,n_back,62.067,5.791,0.0
-DE != SE,directed_forgetting,37.355,3.938,0.0
-DE != DC,All,11.113,4.185,0.0
-DE != DC,predictable_task_switching,22.844,3.533,0.001
-DE != DC,cued_task_switching,-0.003,-0.001,1.0
-DE != DC,flanker,-3.767,-0.973,0.338
-DE != DC,shape_matching,3.796,0.796,0.433
-DE != DC,n_back,22.126,2.297,0.029
-DE != DC,directed_forgetting,21.684,2.615,0.014
+Test,Dual Task(s),Mean,d,p
+"mean(DE,DC) vs. SE",Predictable Task Switching,31.0,0.63,0.002
+"mean(DE,DC) vs. SE",Cued Task Switching,22.6,0.59,0.003
+"mean(DE,DC) vs. SE",Flanker,-0.0,-0.0,0.996
+"mean(DE,DC) vs. SE",Shape Matching,1.8,0.04,0.828
+"mean(DE,DC) vs. SE",n-Back,51.0,0.88,0.0
+"mean(DE,DC) vs. SE",Directed Forgetting,26.5,0.54,0.006
+DC vs. SE,All,16.6,0.41,0.032
+DC vs. SE,Predictable Task Switching,19.6,0.44,0.024
+DC vs. SE,Cued Task Switching,22.6,0.54,0.006
+DC vs. SE,Flanker,1.8,0.04,0.815
+DC vs. SE,Shape Matching,-0.1,-0.0,0.987
+DC vs. SE,n-Back,39.9,0.59,0.003
+DC vs. SE,Directed Forgetting,15.7,0.28,0.133
+DE vs. SE,All,27.7,0.71,0.001
+DE vs. SE,Predictable Task Switching,42.4,0.73,0.0
+DE vs. SE,Cued Task Switching,22.6,0.56,0.005
+DE vs. SE,Flanker,-1.9,-0.05,0.8
+DE vs. SE,Shape Matching,3.7,0.09,0.641
+DE vs. SE,n-Back,62.1,1.06,0.0
+DE vs. SE,Directed Forgetting,37.4,0.72,0.0
+DE vs. DC,All,11.1,0.76,0.0
+DE vs. DC,Predictable Task Switching,22.8,0.65,0.001
+DE vs. DC,Cued Task Switching,-0.0,-0.0,1.0
+DE vs. DC,Flanker,-3.8,-0.18,0.338
+DE vs. DC,Shape Matching,3.8,0.15,0.433
+DE vs. DC,n-Back,22.1,0.42,0.029
+DE vs. DC,Directed Forgetting,21.7,0.48,0.014
