@@ -11,9 +11,7 @@ from collections import defaultdict
 # CONSTANTS
 INCLUDE_INHIB_TASKS = True
 
-# setup paths
-project_dir = '/Users/henrymj/Documents/r01network/mturk/'
-raw_dir = project_dir + 'all_data/raw_data/'
+
 
 ABBREV = {'directed_forgetting_condition': 'DF',
           'flanker_condition':'FLANKER',
@@ -533,7 +531,10 @@ def make_unfurled_tmp_df(df, key, separate_conditions_dict):
     return tmp_df
 
 # 4. umbrella functions
-def make_clean_concat_data(filter_exp='all', stop_subset=False, dataset='discovery'):
+def make_clean_concat_data(filter_exp='all', stop_subset=False, dataset='discovery', project_dir='/Users/henrymj/Documents/r01network/mturk_dualStop_analysis/'):
+    # path setup
+    raw_dir = project_dir + 'all_data/raw_data/'
+    
     task_dfs = defaultdict(pd.DataFrame)
     all_files = [i for i in glob(raw_dir + 's*/*') if ('demographics' not in i)]
     if dataset == 'discovery':
