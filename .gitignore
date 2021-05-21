@@ -1,6 +1,5 @@
 # HMJ added
 .DS_Store
-all_data/
 violation_csvs/
 
 # Byte-compiled / optimized / DLL files
