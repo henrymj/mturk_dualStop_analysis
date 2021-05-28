@@ -308,9 +308,11 @@ def standardize_conditions(data_df, exp_id):
 
 
 # 4. umbrella function
-def make_clean_concat_data(filter_exp='all', stop_subset=False, dataset='discovery', project_dir='/Users/henrymj/Documents/r01network/mturk_dualStop_analysis/'):
+def make_clean_concat_data(filter_exp='all', stop_subset=False, dataset='discovery', data_paths_file='./raw_data_path.txt'):
     # path setup
-    raw_dir = project_dir + 'all_data/raw_data/'
+    with open(data_paths_file, 'r') as f:
+        paths = f.readlines()
+    raw_dir = paths[0]
     
     task_dfs = defaultdict(pd.DataFrame)
     all_files = [i for i in glob(raw_dir + 's*/*') if ('demographics' not in i)]

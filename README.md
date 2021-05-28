@@ -2,7 +2,7 @@
 
 Code and Data to replicate analyses investigating interference of SSRT across dual tasks for Bissett et al. 2021.
   
-To rerun, download the repo and either A) change the `project_dir` in `dual_data_utils.py` (line 534), or B) when rerunning the notebooks, include the `project_dir` argument when calling `make_clean_concat_data` towards the top of each notebook.
+To rerun, download the repo and change the path to the raw data in raw_data_path.txt.
   
 Notebooks are organized into the type of analysis applied (discovery or validation), and the dataset the analysis is applied to (discovery, validation, or all).
   
