@@ -1,28 +1,28 @@
 Test,Dual Task(s),Mean,d,p
-"mean(DE,DC) vs. SE",Predictable Task Switching,-0.091,-2.26,0.0
-"mean(DE,DC) vs. SE",Cued Task Switching,-0.083,-1.58,0.0
-"mean(DE,DC) vs. SE",Flanker,-0.003,-0.18,0.336
-"mean(DE,DC) vs. SE",Shape Matching,-0.019,-0.58,0.004
-"mean(DE,DC) vs. SE",n-Back,-0.127,-2.31,0.0
-"mean(DE,DC) vs. SE",Directed Forgetting,-0.049,-1.74,0.0
-DC vs. SE,All,-0.041,-1.72,0.0
-DC vs. SE,Predictable Task Switching,-0.071,-1.64,0.0
-DC vs. SE,Cued Task Switching,-0.068,-1.29,0.0
-DC vs. SE,Flanker,0.001,0.07,0.698
-DC vs. SE,Shape Matching,-0.013,-0.43,0.027
-DC vs. SE,n-Back,-0.073,-0.9,0.0
-DC vs. SE,Directed Forgetting,-0.02,-0.7,0.001
-DE vs. SE,All,-0.083,-2.74,0.0
-DE vs. SE,Predictable Task Switching,-0.111,-2.24,0.0
-DE vs. SE,Cued Task Switching,-0.097,-1.57,0.0
-DE vs. SE,Flanker,-0.007,-0.4,0.038
-DE vs. SE,Shape Matching,-0.025,-0.57,0.004
-DE vs. SE,n-Back,-0.182,-2.45,0.0
-DE vs. SE,Directed Forgetting,-0.079,-1.47,0.0
-DE vs. DC,All,-0.043,-1.62,0.0
-DE vs. DC,Predictable Task Switching,-0.039,-0.84,0.0
-DE vs. DC,Cued Task Switching,-0.029,-0.61,0.002
-DE vs. DC,Flanker,-0.008,-0.59,0.003
-DE vs. DC,Shape Matching,-0.012,-0.33,0.085
-DE vs. DC,n-Back,-0.108,-1.0,0.0
-DE vs. DC,Directed Forgetting,-0.058,-0.9,0.0
+"mean(Dual Context, Dual Condition) vs. Single Task",Predictable Task Switching,-0.091,-2.26,0.0
+"mean(Dual Context, Dual Condition) vs. Single Task",Cued Task Switching,-0.083,-1.58,0.0
+"mean(Dual Context, Dual Condition) vs. Single Task",Flanker,-0.003,-0.18,0.336
+"mean(Dual Context, Dual Condition) vs. Single Task",Shape Matching,-0.019,-0.58,0.004
+"mean(Dual Context, Dual Condition) vs. Single Task",n-Back,-0.127,-2.31,0.0
+"mean(Dual Context, Dual Condition) vs. Single Task",Directed Forgetting,-0.049,-1.74,0.0
+Dual Context vs. Single Task,All,-0.041,-1.72,0.0
+Dual Context vs. Single Task,Predictable Task Switching,-0.071,-1.64,0.0
+Dual Context vs. Single Task,Cued Task Switching,-0.068,-1.29,0.0
+Dual Context vs. Single Task,Flanker,0.001,0.07,0.698
+Dual Context vs. Single Task,Shape Matching,-0.013,-0.43,0.027
+Dual Context vs. Single Task,n-Back,-0.073,-0.9,0.0
+Dual Context vs. Single Task,Directed Forgetting,-0.02,-0.7,0.001
+Dual Condition vs. Single Task,All,-0.083,-2.74,0.0
+Dual Condition vs. Single Task,Predictable Task Switching,-0.111,-2.24,0.0
+Dual Condition vs. Single Task,Cued Task Switching,-0.097,-1.57,0.0
+Dual Condition vs. Single Task,Flanker,-0.007,-0.4,0.038
+Dual Condition vs. Single Task,Shape Matching,-0.025,-0.57,0.004
+Dual Condition vs. Single Task,n-Back,-0.182,-2.45,0.0
+Dual Condition vs. Single Task,Directed Forgetting,-0.079,-1.47,0.0
+Dual Condition vs. Dual Context,All,-0.043,-1.62,0.0
+Dual Condition vs. Dual Context,Predictable Task Switching,-0.039,-0.84,0.0
+Dual Condition vs. Dual Context,Cued Task Switching,-0.029,-0.61,0.002
+Dual Condition vs. Dual Context,Flanker,-0.008,-0.59,0.003
+Dual Condition vs. Dual Context,Shape Matching,-0.012,-0.33,0.085
+Dual Condition vs. Dual Context,n-Back,-0.108,-1.0,0.0
+Dual Condition vs. Dual Context,Directed Forgetting,-0.058,-0.9,0.0

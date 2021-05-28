@@ -1,6 +1,6 @@
 Test,Dual Task(s),Mean,d,p
-"mean(DE,DC) > SE",Cued Task Switching,15.7,0.28,0.072
-"mean(DE,DC) > SE",Shape Matching,34.9,0.91,0.001
-"mean(DE,DC) > SE",n-Back,25.5,0.41,0.009
-"mean(DE,DC) > SE",Directed Forgetting,37.1,0.62,0.0
-DE > DC,n-Back,5.1,0.05,0.4
+"mean(Dual Context, Dual Condition) > Single Task",Cued Task Switching,15.7,0.28,0.056
+"mean(Dual Context, Dual Condition) > Single Task",Shape Matching,34.9,0.91,0.0
+"mean(Dual Context, Dual Condition) > Single Task",n-Back,25.5,0.41,0.005
+"mean(Dual Context, Dual Condition) > Single Task",Directed Forgetting,37.1,0.62,0.0
+Dual Condition > Dual Context,n-Back,5.1,0.05,0.4
