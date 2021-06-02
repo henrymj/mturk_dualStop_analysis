@@ -1,6 +1,6 @@
 # mturk_dualStop_analysis
 
-Code and Data to replicate analyses investigating interference of SSRT across dual tasks for Bissett et al. 2021.
+Code and Data to replicate analyses investigating interference of SSRT across dual tasks for the paper "Towards a taxonomy of inhibition-related processes: A dual-task approach", by Patrick G. Bissett, Henry M. Jones, McKenzie P. Hagen, Tung Bui, Jamie K. Li, James M. Shine, & Russell A Poldrack (2021).
   
 To rerun, download the repo and change the path to the raw data in raw_data_path.txt.
   
