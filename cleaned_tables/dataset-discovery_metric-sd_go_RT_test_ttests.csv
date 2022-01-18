@@ -1,28 +1,28 @@
 Test,Dual Task(s),Mean,d,p
-"mean(Dual Context, Dual Condition) vs. Single Task",Predictable Task Switching,31.0,0.63,0.002
-"mean(Dual Context, Dual Condition) vs. Single Task",Cued Task Switching,22.6,0.59,0.003
-"mean(Dual Context, Dual Condition) vs. Single Task",Flanker,-0.0,-0.0,0.996
-"mean(Dual Context, Dual Condition) vs. Single Task",Shape Matching,1.8,0.04,0.828
-"mean(Dual Context, Dual Condition) vs. Single Task",n-Back,51.0,0.88,0.0
-"mean(Dual Context, Dual Condition) vs. Single Task",Directed Forgetting,26.5,0.54,0.006
-Dual Context vs. Single Task,All,16.6,0.41,0.032
-Dual Context vs. Single Task,Predictable Task Switching,19.6,0.44,0.024
-Dual Context vs. Single Task,Cued Task Switching,22.6,0.54,0.006
-Dual Context vs. Single Task,Flanker,1.8,0.04,0.815
-Dual Context vs. Single Task,Shape Matching,-0.1,-0.0,0.987
-Dual Context vs. Single Task,n-Back,39.9,0.59,0.003
-Dual Context vs. Single Task,Directed Forgetting,15.7,0.28,0.133
-Dual Condition vs. Single Task,All,27.7,0.71,0.001
-Dual Condition vs. Single Task,Predictable Task Switching,42.4,0.73,0.0
-Dual Condition vs. Single Task,Cued Task Switching,22.6,0.56,0.005
-Dual Condition vs. Single Task,Flanker,-1.9,-0.05,0.8
-Dual Condition vs. Single Task,Shape Matching,3.7,0.09,0.641
-Dual Condition vs. Single Task,n-Back,62.1,1.06,0.0
-Dual Condition vs. Single Task,Directed Forgetting,37.4,0.72,0.0
-Dual Condition vs. Dual Context,All,11.1,0.76,0.0
-Dual Condition vs. Dual Context,Predictable Task Switching,22.8,0.65,0.001
-Dual Condition vs. Dual Context,Cued Task Switching,-0.0,-0.0,1.0
-Dual Condition vs. Dual Context,Flanker,-3.8,-0.18,0.338
-Dual Condition vs. Dual Context,Shape Matching,3.8,0.15,0.433
-Dual Condition vs. Dual Context,n-Back,22.1,0.42,0.029
-Dual Condition vs. Dual Context,Directed Forgetting,21.7,0.48,0.014
+"mean(Dual Low Demand, Dual High Demand) vs. Simple Stop Single Task",Predictable Task Switching,31.0,0.63,0.002
+"mean(Dual Low Demand, Dual High Demand) vs. Simple Stop Single Task",Cued Task Switching,22.6,0.59,0.003
+"mean(Dual Low Demand, Dual High Demand) vs. Simple Stop Single Task",Flanker,-0.0,-0.0,0.996
+"mean(Dual Low Demand, Dual High Demand) vs. Simple Stop Single Task",Shape Matching,1.8,0.04,0.828
+"mean(Dual Low Demand, Dual High Demand) vs. Simple Stop Single Task",n-Back,51.0,0.88,0.0
+"mean(Dual Low Demand, Dual High Demand) vs. Simple Stop Single Task",Directed Forgetting,26.5,0.54,0.006
+Dual Low Demand vs. Simple Stop Single Task,All,16.6,0.41,0.032
+Dual Low Demand vs. Simple Stop Single Task,Predictable Task Switching,19.6,0.44,0.024
+Dual Low Demand vs. Simple Stop Single Task,Cued Task Switching,22.6,0.54,0.006
+Dual Low Demand vs. Simple Stop Single Task,Flanker,1.8,0.04,0.815
+Dual Low Demand vs. Simple Stop Single Task,Shape Matching,-0.1,-0.0,0.987
+Dual Low Demand vs. Simple Stop Single Task,n-Back,39.9,0.59,0.003
+Dual Low Demand vs. Simple Stop Single Task,Directed Forgetting,15.7,0.28,0.133
+Dual High Demand vs. Simple Stop Single Task,All,27.7,0.71,0.001
+Dual High Demand vs. Simple Stop Single Task,Predictable Task Switching,42.4,0.73,0.0
+Dual High Demand vs. Simple Stop Single Task,Cued Task Switching,22.6,0.56,0.005
+Dual High Demand vs. Simple Stop Single Task,Flanker,-1.9,-0.05,0.8
+Dual High Demand vs. Simple Stop Single Task,Shape Matching,3.7,0.09,0.641
+Dual High Demand vs. Simple Stop Single Task,n-Back,62.1,1.06,0.0
+Dual High Demand vs. Simple Stop Single Task,Directed Forgetting,37.4,0.72,0.0
+Dual High Demand vs. Dual Low Demand,All,11.1,0.76,0.0
+Dual High Demand vs. Dual Low Demand,Predictable Task Switching,22.8,0.65,0.001
+Dual High Demand vs. Dual Low Demand,Cued Task Switching,-0.0,-0.0,1.0
+Dual High Demand vs. Dual Low Demand,Flanker,-3.8,-0.18,0.338
+Dual High Demand vs. Dual Low Demand,Shape Matching,3.8,0.15,0.433
+Dual High Demand vs. Dual Low Demand,n-Back,22.1,0.42,0.029
+Dual High Demand vs. Dual Low Demand,Directed Forgetting,21.7,0.48,0.014

@@ -1,6 +1,6 @@
 Test,Dual Task(s),Mean,d,p
-"mean(Dual Context, Dual Condition) > Single Task",Cued Task Switching,4.5,0.09,0.297
-"mean(Dual Context, Dual Condition) > Single Task",Shape Matching,28.9,1.35,0.0
-"mean(Dual Context, Dual Condition) > Single Task",n-Back,27.6,0.5,0.001
-"mean(Dual Context, Dual Condition) > Single Task",Directed Forgetting,86.2,1.79,0.0
-Dual Condition > Dual Context,n-Back,29.9,0.36,0.144
+"mean(Dual Low Demand, Dual High Demand) > Simple Stop Single Task",Cued Task Switching,4.5,0.09,0.297
+"mean(Dual Low Demand, Dual High Demand) > Simple Stop Single Task",Shape Matching,28.9,1.35,0.0
+"mean(Dual Low Demand, Dual High Demand) > Simple Stop Single Task",n-Back,27.6,0.5,0.001
+"mean(Dual Low Demand, Dual High Demand) > Simple Stop Single Task",Directed Forgetting,86.2,1.79,0.0
+Dual High Demand > Dual Low Demand,n-Back,29.9,0.36,0.144
