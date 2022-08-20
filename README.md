@@ -13,3 +13,5 @@ Notebooks are organized into the type of analysis applied (discovery or validati
 `analysis-validation_dataset-all.ipynb` runs the post-hoc analysis excluding short SSD subjects on the combined dataset.
   
 `display_tables.ipynb` reads in the tables saved out by the above notebooks, cleans them, and displays them for use in the paper.
+  
+`analysis-nbackPostHoc_dataset_discovery.ipynb` responds to reviewer feedback by examining how many short SSD trials were identified, and comparing 2-back and 3-back accuracy, RT, and SSRT estimates.
