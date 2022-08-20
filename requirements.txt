@@ -6,41 +6,62 @@ git+git://github.com/henrymj/stopsignalmetrics@e5a1d9cf9d12ebc43eed66c428ca80d9f
 # mturk_dualStop_analysis/display_tables.ipynb: 2
 dataframe_image == 0.1.1
 
-# mturk_dualStop_analysis/validation_analysis_dataset-all.ipynb: 9
-# mturk_dualStop_analysis/validation_analysis_dataset-discovery.ipynb: 9
-# mturk_dualStop_analysis/validation_analysis_dataset-validation.ipynb: 9
+# mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-all-checkpoint.ipynb: 9
+# mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-discovery-checkpoint.ipynb: 9
+# mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-validation-checkpoint.ipynb: 9
+# mturk_dualStop_analysis/analysis-validation_dataset-all.ipynb: 9
+# mturk_dualStop_analysis/analysis-validation_dataset-discovery.ipynb: 9
+# mturk_dualStop_analysis/analysis-validation_dataset-validation.ipynb: 9
 ipython == 7.22.0
 
-# mturk_dualStop_analysis/validation_analysis_dataset-all.ipynb: 6,7
-# mturk_dualStop_analysis/validation_analysis_dataset-discovery.ipynb: 6,7
-# mturk_dualStop_analysis/validation_analysis_dataset-validation.ipynb: 6,7
+# mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-all-checkpoint.ipynb: 6,7
+# mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-discovery-checkpoint.ipynb: 6,7
+# mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-validation-checkpoint.ipynb: 6,7
+# mturk_dualStop_analysis/analysis-validation_dataset-all.ipynb: 6,7
+# mturk_dualStop_analysis/analysis-validation_dataset-discovery.ipynb: 6,7
+# mturk_dualStop_analysis/analysis-validation_dataset-validation.ipynb: 6,7
 matplotlib == 3.3.4
 
+# mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-all-checkpoint.ipynb: 1
+# mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-discovery-checkpoint.ipynb: 1
+# mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-validation-checkpoint.ipynb: 1
+# mturk_dualStop_analysis/analysis-validation_dataset-all.ipynb: 1
+# mturk_dualStop_analysis/analysis-validation_dataset-discovery.ipynb: 1
+# mturk_dualStop_analysis/analysis-validation_dataset-validation.ipynb: 1
 # mturk_dualStop_analysis/dual_data_utils.py: 3
-# mturk_dualStop_analysis/validation_analysis_dataset-all.ipynb: 1
-# mturk_dualStop_analysis/validation_analysis_dataset-discovery.ipynb: 1
-# mturk_dualStop_analysis/validation_analysis_dataset-validation.ipynb: 1
-numpy == 1.20.1
+numpy == 1.22
 
+# mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-all-checkpoint.ipynb: 2
+# mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-discovery-checkpoint.ipynb: 2
+# mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-validation-checkpoint.ipynb: 2
 # mturk_dualStop_analysis/.ipynb_checkpoints/display_tables-checkpoint.ipynb: 1
+# mturk_dualStop_analysis/analysis-validation_dataset-all.ipynb: 2
+# mturk_dualStop_analysis/analysis-validation_dataset-discovery.ipynb: 2
+# mturk_dualStop_analysis/analysis-validation_dataset-validation.ipynb: 2
 # mturk_dualStop_analysis/display_tables.ipynb: 1
 # mturk_dualStop_analysis/dual_data_utils.py: 4
-# mturk_dualStop_analysis/validation_analysis_dataset-all.ipynb: 2
-# mturk_dualStop_analysis/validation_analysis_dataset-discovery.ipynb: 2
-# mturk_dualStop_analysis/validation_analysis_dataset-validation.ipynb: 2
 pandas == 1.2.4
 
-# mturk_dualStop_analysis/validation_analysis_dataset-all.ipynb: 3
-# mturk_dualStop_analysis/validation_analysis_dataset-discovery.ipynb: 3
-# mturk_dualStop_analysis/validation_analysis_dataset-validation.ipynb: 3
-pingouin == 0.3.11
+# mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-all-checkpoint.ipynb: 3
+# mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-discovery-checkpoint.ipynb: 3
+# mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-validation-checkpoint.ipynb: 3
+# mturk_dualStop_analysis/analysis-validation_dataset-all.ipynb: 3
+# mturk_dualStop_analysis/analysis-validation_dataset-discovery.ipynb: 3
+# mturk_dualStop_analysis/analysis-validation_dataset-validation.ipynb: 3
+pingouin == 0.5.0
 
-# mturk_dualStop_analysis/validation_analysis_dataset-all.ipynb: 4
-# mturk_dualStop_analysis/validation_analysis_dataset-discovery.ipynb: 4
-# mturk_dualStop_analysis/validation_analysis_dataset-validation.ipynb: 4
-scipy == 1.6.2
+# mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-all-checkpoint.ipynb: 4
+# mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-discovery-checkpoint.ipynb: 4
+# mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-validation-checkpoint.ipynb: 4
+# mturk_dualStop_analysis/analysis-validation_dataset-all.ipynb: 4
+# mturk_dualStop_analysis/analysis-validation_dataset-discovery.ipynb: 4
+# mturk_dualStop_analysis/analysis-validation_dataset-validation.ipynb: 4
+scipy == 1.7.3
 
-# mturk_dualStop_analysis/validation_analysis_dataset-all.ipynb: 8
-# mturk_dualStop_analysis/validation_analysis_dataset-discovery.ipynb: 8
-# mturk_dualStop_analysis/validation_analysis_dataset-validation.ipynb: 8
+# mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-all-checkpoint.ipynb: 8
+# mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-discovery-checkpoint.ipynb: 8
+# mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-validation-checkpoint.ipynb: 8
+# mturk_dualStop_analysis/analysis-validation_dataset-all.ipynb: 8
+# mturk_dualStop_analysis/analysis-validation_dataset-discovery.ipynb: 8
+# mturk_dualStop_analysis/analysis-validation_dataset-validation.ipynb: 8
 seaborn == 0.11.1
