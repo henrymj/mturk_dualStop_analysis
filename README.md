@@ -1,3 +1,5 @@
+* NOTE: requirements.txt has since been updated to avoid security vulnerabilities (only a problem with commercial software, but no harm in fixing here too). iPython & Scipy were updated. The previous versions were `ipython == 7.22.0` & `scipy == 1.7.3`.
+
 # mturk_dualStop_analysis
 
 Code and Data to replicate analyses investigating interference of SSRT across dual tasks for the paper "Towards a taxonomy of inhibition-related processes: A dual-task approach", by Patrick G. Bissett, Henry M. Jones, McKenzie P. Hagen, Tung Bui, Jamie K. Li, James M. Shine, & Russell A Poldrack (2021).
