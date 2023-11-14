@@ -12,7 +12,7 @@ dataframe_image == 0.1.1
 # mturk_dualStop_analysis/analysis-validation_dataset-all.ipynb: 9
 # mturk_dualStop_analysis/analysis-validation_dataset-discovery.ipynb: 9
 # mturk_dualStop_analysis/analysis-validation_dataset-validation.ipynb: 9
-ipython == 7.22.0
+ipython == 8.1.0
 
 # mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-all-checkpoint.ipynb: 6,7
 # mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-discovery-checkpoint.ipynb: 6,7
@@ -56,7 +56,7 @@ pingouin == 0.5.0
 # mturk_dualStop_analysis/analysis-validation_dataset-all.ipynb: 4
 # mturk_dualStop_analysis/analysis-validation_dataset-discovery.ipynb: 4
 # mturk_dualStop_analysis/analysis-validation_dataset-validation.ipynb: 4
-scipy == 1.7.3
+scipy == 1.10.0
 
 # mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-all-checkpoint.ipynb: 8
 # mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-discovery-checkpoint.ipynb: 8
