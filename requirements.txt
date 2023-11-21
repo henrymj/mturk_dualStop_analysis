@@ -12,7 +12,7 @@ dataframe_image == 0.1.1
 # mturk_dualStop_analysis/analysis-validation_dataset-all.ipynb: 9
 # mturk_dualStop_analysis/analysis-validation_dataset-discovery.ipynb: 9
 # mturk_dualStop_analysis/analysis-validation_dataset-validation.ipynb: 9
-ipython == 8.1.0
+ipython == 8.10.0
 
 # mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-all-checkpoint.ipynb: 6,7
 # mturk_dualStop_analysis/.ipynb_checkpoints/analysis-validation_dataset-discovery-checkpoint.ipynb: 6,7
